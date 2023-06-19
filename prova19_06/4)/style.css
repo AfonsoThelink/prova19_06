@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+
+main{
+    width: 700px;
+    margin: auto;
+    height: 600px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+}
+input{
+    width: 50px;
+}
